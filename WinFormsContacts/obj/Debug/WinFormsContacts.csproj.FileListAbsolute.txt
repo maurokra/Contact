@@ -1,0 +1,10 @@
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.exe.config
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.exe
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.pdb
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csprojResolveAssemblyReference.cache
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.ContactDetails.resources
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.Main.resources
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.Properties.Resources.resources
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.GenerateResource.Cache
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.exe
+F:\Users\MAURO\Source\Repos\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.pdb
